@@ -1,0 +1,47 @@
+body {margin: 0% auto;
+      font-family: Tahoma;
+      background-color: #124912;
+      color: rgb(255, 255, 255);
+      margin: 10%;
+} 
+
+:any-link {color: rgb(255, 255, 255);
+}
+
+header {max-width: 960px;
+      width: 60%;
+      align-content: center;
+      margin: 0 auto;
+      text-align: center;
+      font-size: 9pt;
+      background-color: rgba(0, 0, 0, 0.484);
+}
+
+.headings {text-align: center;
+      text-shadow: black;
+
+
+
+}
+
+img#logo
+{width: 100%;
+ height: auto;
+}
+
+#intro
+{text-align:justify;
+background-color: rgba(255, 255, 255, 0);
+overflow: hidden;
+}
+
+img#bike
+{max-width: 300px;
+height: auto;
+float: right;
+padding-left: 20px;
+padding-bottom: 10px;
+}
+  
+footer
+
